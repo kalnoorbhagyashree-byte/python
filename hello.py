@@ -40,7 +40,7 @@ print(books)
 print(type(books))
 a=int(input("enter the value:"))
 if a>=18:
-#     print("yoyu sre eligible to vote")
+ print("yoyu sre eligible to vote")
 b=int(input("enter the vslue:"))
 if b%2==0:
     print("the number is even")
